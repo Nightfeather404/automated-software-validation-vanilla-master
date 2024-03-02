@@ -1,2 +1,0 @@
-# Never obfuscate releases
--dontobfuscate
